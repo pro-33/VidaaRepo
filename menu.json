@@ -1,6 +1,8 @@
 {
-  "name": "Geometry Dash TV",
-  "icon": "https://img.icons8.com/color/512/geometry-dash.png",
-  "type": "link",
-  "url": "http://pro-33.github.io/VidaaRepo/GeometryDash/index.html"
+  "menu": {
+      "title": "Мои приложения",
+      "items": [
+          { "title": "Geometry Dash TV", "icon": "https://img.icons8.com/color/512/geometry-dash.png", "action": "link:https://pro-33.github.io/VidaaRepo/GeometryDash/index.html" }
+      ]
+  }
 }
