@@ -1,0 +1,2 @@
+# VidaaRepo
+Приложение для Vidaaa
